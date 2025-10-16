@@ -1,4 +1,4 @@
-## Olá eu sou o Douglas (DWRada Dev) <img width="50px" src="/autismo.png">
+## Olá eu sou o Douglas!<img width="50px" src="/autismo.png">
 
 
 - 🔭 Atualmente buscando a tão sonhada transição de carreira.
