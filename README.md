@@ -17,7 +17,6 @@
 <br>
 
  [![card](https://github-readme-stats.vercel.app/api?username=DWRada&theme=ambient_gradient&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
- 
  [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=DWRada&theme=ambient_gradient&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
