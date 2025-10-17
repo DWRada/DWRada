@@ -21,4 +21,4 @@
  [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=DWRada&theme=ambient_gradient&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
- 
+ ![snake animation](https://github.com/DWRada/DWRada/blob/output/github-contribution-grid-snake2.svg)
