@@ -10,7 +10,6 @@
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg"></img>
   <img width="50px" src="https://devicon-website.vercel.app/api/html5/original.svg"></img>
   <img width="50px" src="https://devicon-website.vercel.app/api/css3/original.svg"></img>
-  <img width="50px" src="https://devicon-website.vercel.app/api/bootstrap/original.svg?cor=%2359407F"></img>
   <img width="50px" src="https://devicon-website.vercel.app/api/javascript/original.svg"></img>
 </div>
 <br>
