@@ -15,10 +15,6 @@
 <br>
 <br>
 
- [![card](https://github-readme-stats.vercel.app/api?username=DWRada&theme=ambient_gradient&show_icons=true)](https://github.com/DWRada/github-readme-stats)
- [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=DWRada&theme=ambient_gradient&layout=compact)](https://github.com/DWRada/github-readme-stats)
-
-
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DWRada/DWRada/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DWRada/DWRada/output/github-contribution-grid-snake-dark.svg">
